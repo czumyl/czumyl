@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @czumyl
-- 👀 I’m interested in everything, that make my life easier.
+- 👀 I'm interested in everything that makes my life easier.
 - 🌱 I’m currently learning basics of Python. 
 - 📫 Reach me via cumyl@seznam.cz .
 
